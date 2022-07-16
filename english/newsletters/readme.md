@@ -2,6 +2,10 @@
 
 A list of newsletters to keep up to date on merge news. 
 
-[Finalized by Danny Ryan](https://blog.ethereum.org/search/?query=finalized)
+[Week in Ethereum News](https://weekinethereumnews.com) [weekly] by [Evan Van Ness](https://twitter.com/evan_van_ness) & [Andrew B Coathup](https://twitter.com/abcoathup)
 
-[What's new in Eth2 by Ben Edginton](https://www.eth2.news)
+[What's New in Eth2](https://www.eth2.news) [fortnightly] by [Ben Edgington](https://twitter.com/benjaminion_xyz)
+
+[Finalized](https://blog.ethereum.org/search/?query=finalized) [periodically] by [Danny Ryan](https://twitter.com/dannyryan)
+
+
