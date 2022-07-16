@@ -1,8 +1,6 @@
 # Media for Ethereum Merge
 
-**Resources for media outlets interested in covering the Ethereum Merge**
-
-Anyone who submits resources to this repository through a pull request (that is accepted) will likely receive a [gitPOAP](https://gitpoap.io) for their effort! Pull Requests can be ANYTHING that improves this repository in any way - including improving this text :)
+## Resources for media outlets interested in covering the Ethereum Merge
 
 * [**Audio**](english/audio) - clips from reputable providers describing the merge, consider resources that are likely to be used by radio news outlets
 
@@ -21,3 +19,9 @@ Anyone who submits resources to this repository through a pull request (that is 
 * [**Video**](english/video) - very short (5-10 second) video clips that capture the essence of the merge in bite-sized content
 
 * [**Live Data**](english/data) - see key metrics in real time across the execution and consensus layers
+
+## Contribute
+
+Anyone who submits resources to this repository through a pull request (that is accepted) will likely receive a [gitPOAP](https://gitpoap.io) for their effort! 
+
+Pull Requests can be **anything** that improves this repository in any way - including improving this text :)
