@@ -13,4 +13,6 @@ and information about slashings (validators punished for malicious activity)
     - Amount deposited over time
     - Breakdown of known depositors (e.g. exchanges, pools, service providers)
 
+4) [Beaconscan](https://beaconscan.com/) - See details about the Beacon Chain. An alternative for Beaconcha.in, made by Etherscan.
+
 Note: While the above sites are generally considered accurate, any of the tools could have bugs and running your own node is the only way to guarantee data. 
