@@ -8,9 +8,11 @@
 
 * [**Graphics**](english/graphics) - graphics resources
 
+* [**Live Data**](english/data) - see key metrics in real time across the execution and consensus layers
+
 * [**Music**](english/music) - songs created for the merge, notably songs by artists like Jonathan Mann
 
-* [**Newsletters**](english/newsletters) - Newsletters to keep up to date on merge news 
+* [**Newsletters**](english/newsletters) - newsletters to keep up to date on merge news 
 
 * [**Press Releases**](english/press_releases) - sample or actual press releases that cover the merge
 
@@ -18,7 +20,6 @@
 
 * [**Video**](english/video) - very short (5-10 second) video clips that capture the essence of the merge in bite-sized content
 
-* [**Live Data**](english/data) - see key metrics in real time across the execution and consensus layers
 
 ## Contribute
 
