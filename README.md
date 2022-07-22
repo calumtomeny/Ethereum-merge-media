@@ -1,5 +1,7 @@
 # Media for Ethereum Merge
 
+This is a repository collecting all forms of media regarding the Ethereum Merge.
+
 ## Resources for media outlets interested in covering the Ethereum Merge
 
 * [**Audio**](english/audio) - clips from reputable providers describing the merge, consider resources that are likely to be used by radio news outlets
