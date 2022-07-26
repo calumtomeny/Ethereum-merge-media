@@ -1,3 +1,5 @@
+[![GitPOAP Badge](https://public-api.gitpoap.io/v1/repo/superphiz/Ethereum-merge-media/badge)](https://www.gitpoap.io/gh/superphiz/Ethereum-merge-media)
+
 # Media for Ethereum Merge
 
 This is a repository collecting all forms of media regarding the Ethereum Merge.
