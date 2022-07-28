@@ -18,4 +18,4 @@ Videos containing information about the merge
 1) [Merge Community Call #1](https://www.youtube.com/watch?v=_kfS9jAUY6g&list=PL4cwHXAawZxqoLxXqZqT4hcYhoHoP6w12&index=15)
 2) [Merge Community Call #2](https://www.youtube.com/watch?v=iPw7ixSgA_w&list=PL4cwHXAawZxqoLxXqZqT4hcYhoHoP6w12&index=14)
 3) [Merge Community Call #3](https://www.youtube.com/watch?v=65Pt6oS3kDM&list=PL4cwHXAawZxqoLxXqZqT4hcYhoHoP6w12&index=10)
-40 [Merge Community Call #4](https://www.youtube.com/watch?v=qG-A5i6x6N8&list=PL4cwHXAawZxqoLxXqZqT4hcYhoHoP6w12&index=7)
+4) [Merge Community Call #4](https://www.youtube.com/watch?v=qG-A5i6x6N8&list=PL4cwHXAawZxqoLxXqZqT4hcYhoHoP6w12&index=7)
