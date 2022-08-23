@@ -9,3 +9,7 @@ Sample news would be example content and news stories that would be viewed by me
 4. [Ethereum's new version is still on track for 2022](https://www.axios.com/2022/06/27/ethereum-new-version-2022-eth-ether)
 
 5. [The Conversation - Cryptocurrency, NFTs and the metaverse threaten an environmental nightmare – here’s how to avoid it](https://theconversation.com/cryptocurrency-nfts-and-the-metaverse-threaten-an-environmental-nightmare-heres-how-to-avoid-it-175761)
+
+6. [The Independent - Ethereum Merge: Countdown to ‘most anticipated event in crypto’s history’ is underway](https://www.independent.co.uk/tech/ethereum-merge-date-price-crypto-b2149974.html)
+
+
