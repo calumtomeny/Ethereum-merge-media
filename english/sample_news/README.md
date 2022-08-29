@@ -13,3 +13,5 @@ Sample news would be example content and news stories that would be viewed by me
 6. [The Independent - Ethereum Merge: Countdown to ‘most anticipated event in crypto’s history’ is underway](https://www.independent.co.uk/tech/ethereum-merge-date-price-crypto-b2149974.html)
 
 7. [Ars Technica - Ethereum’s "Merge" is about to put every ether miner out of work](https://arstechnica.com/tech-policy/2022/08/the-merge-the-biggest-change-in-ethereum-history-explained)
+
+8. [The Guardian - Cryptocurrency ethereum plans to cut carbon emissions by 99% with upgrade](https://www.theguardian.com/technology/2022/aug/29/cryptocurrency-ethereum-plans-to-cut-carbon-emissions-by-99-per-cent-with-upgrade)
